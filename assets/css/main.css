@@ -52,3 +52,24 @@ body {
   background : #D9D9D9;
   color : #1c2128;
 }
+
+.back-arrow {
+  cursor : pointer;
+  position : fixed;
+  width : 7vw !important;
+  top : 45%;
+  left : 5.5vw;
+}
+
+.gpt-input-container {
+  position : fixed;
+  left : 28vw;
+  top : 30vh;
+  width : 26vw;
+  height : 30vh;
+  /*background : #402414;*/
+}
+
+.pc-header {
+  color : #a9f53b;
+}
